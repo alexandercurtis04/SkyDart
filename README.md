@@ -1,6 +1,6 @@
 <h1> SkyDart Game
 
-SkyDart is a simple pygame-based game where you control a player to dodge falling asteroids and survive as long as possible. The objective is to avoid collisions with the asteroids and achieve the highest possible survival time.
+<h2> SkyDart is a simple pygame-based game where you control a player to dodge falling asteroids and survive as long as possible. The objective is to avoid collisions with the asteroids and achieve the highest possible survival time.
 
 Features:
 
@@ -29,5 +29,5 @@ Attribution:
 Background image: pxl.png
 Credits:
 
-Game developed by [Your Name]
+Game developed by Alexander Curtis
 Have fun playing SkyDart! If you encounter any issues or have suggestions, feel free to open an issue or contribute to the project.
